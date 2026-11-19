@@ -33,3 +33,4 @@ defined in `Achievements.kt` and stored in the `achievements` table. New ones sh
 ## Rules
 Tap an arrow: if nothing is in front of its head it slides out along its path. If something is in the way
 you lose a heart (3 hearts). Clear all arrows to win: 3 hearts left = 3 stars, 2 = 2 stars, 1 = 1 star.
+# Arrow
