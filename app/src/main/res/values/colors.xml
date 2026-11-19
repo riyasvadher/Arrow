@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="ink">#151A3B</color>
+    <color name="navy">#2D3270</color>
+    <color name="accent">#5B6EF5</color>
+    <color name="accent_pressed">#4757D8</color>
+    <color name="soft">#E3E6FA</color>
+    <color name="dot">#D5D9EE</color>
+    <color name="ink_soft">#6B7194</color>
+    <color name="heart">#EF5B6A</color>
+    <color name="heart_lost">#DCDFF3</color>
+    <color name="star">#FFC93C</color>
+    <color name="star_empty">#E1E4F5</color>
+    <color name="locked">#B9BEDA</color>
+    <color name="locked_bg">#F4F5FC</color>
+    <color name="star_bg">#FFF4D1</color>
+    <color name="shape_tint">#F1F3FD</color>
+</resources>

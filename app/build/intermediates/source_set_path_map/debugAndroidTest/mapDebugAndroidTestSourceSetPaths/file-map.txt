@@ -1,0 +1,4 @@
+com.example.arrows.test.app-androidTest-0 /Users/razaalichitaliya/Downloads/Arrows 3/app/build/generated/res/resValues/androidTest/debug
+com.example.arrows.test.app-mergeDebugAndroidTestResources-1 /Users/razaalichitaliya/Downloads/Arrows 3/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.arrows.test.app-mergeDebugAndroidTestResources-2 /Users/razaalichitaliya/Downloads/Arrows 3/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.arrows.test.app-debugAndroidTest-3 /Users/razaalichitaliya/Downloads/Arrows 3/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

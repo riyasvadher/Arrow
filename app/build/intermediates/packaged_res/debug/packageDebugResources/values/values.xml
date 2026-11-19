@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#5B6EF5</color>
+    <color name="accent_pressed">#4757D8</color>
+    <color name="dot">#D5D9EE</color>
+    <color name="heart">#EF5B6A</color>
+    <color name="heart_lost">#DCDFF3</color>
+    <color name="ic_launcher_background">#5B6EF5</color>
+    <color name="ink">#151A3B</color>
+    <color name="ink_soft">#6B7194</color>
+    <color name="locked">#B9BEDA</color>
+    <color name="locked_bg">#F4F5FC</color>
+    <color name="navy">#2D3270</color>
+    <color name="shape_tint">#F1F3FD</color>
+    <color name="soft">#E3E6FA</color>
+    <color name="star">#FFC93C</color>
+    <color name="star_bg">#FFF4D1</color>
+    <color name="star_empty">#E1E4F5</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Arrows</string>
+    <style name="StatLine">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">@color/ink_soft</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Theme.Arrows" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

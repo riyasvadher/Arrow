@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_chip.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_chip.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_fit.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_fit.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_nav_home.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_nav_home.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_nav_trophy.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_nav_trophy.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_item_achievement.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/item_achievement.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_fragment_streaks.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/fragment_streaks.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_emoji_done.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_emoji_done.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_nav_streak.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_nav_streak.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_fragment_achievements.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/fragment_achievements.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_back.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/raw_sfx_collision.wav.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/raw/sfx_collision.wav"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_nav_levels.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_nav_levels.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_restart.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_restart.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_activity_game.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/activity_game.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_fragment_levels.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/fragment_levels.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_day_today.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_day_today.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_fragment_settings.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_nav_settings.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_nav_settings.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_btn_primary.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_btn_primary.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_activity_main.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_btn_secondary.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_btn_secondary.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_level_locked.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_level_locked.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_level_open.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_level_open.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_card.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/raw_sfx_win.wav.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/raw/sfx_win.wav"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_item_level.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/item_level.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_day_idle.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_day_idle.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_level_current.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_level_current.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_hint.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_hint.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_day_active.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_day_active.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_ic_logo.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_fragment_home.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_emoji_locked.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_emoji_locked.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/layout_dialog_result.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/layout/dialog_result.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_btn_circle.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_btn_circle.xml"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/raw_sfx_slide.wav.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/raw/sfx_slide.wav"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/drawable_bg_panel.xml.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/drawable/bg_panel.xml"
+    },
+    {
+        "merged": "com.example.arrows.app-debug-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.arrows.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-debug-25:/raw_sfx_game_over.wav.flat",
+        "source": "/Users/razaalichitaliya/.gradle/daemon/8.7/com.example.arrows.app-main-27:/raw/sfx_game_over.wav"
+    }
+]
